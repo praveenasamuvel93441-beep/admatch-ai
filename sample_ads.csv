@@ -1,0 +1,4 @@
+campaign_id,campaign_name,category,headline,description,landing_page_url,snapshot_file
+AD-01,Personal Loan Campaign,Finance,Get Your Personal Loan Approved in 24 Hours!,Apply today and receive instant approval with zero paperwork. Low interest rates and flexible repayment options.,https://example.com/personal-loan,personal_loan.html
+AD-02,SaaS Analytics Tool,SaaS,Understand Your Business Data in Minutes,Try our analytics platform free for 14 days. No credit card required.,https://example.com/analytics,saas_analytics.html
+AD-03,E-commerce Sale,E-commerce,Up to 50% Off Electronics,Shop selected electronics with free delivery on every order.,https://example.com/electronics,electronics.html
